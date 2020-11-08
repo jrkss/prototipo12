@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188876492515",
+    "firebase_url": "https://prototipo1-64753.firebaseio.com",
+    "project_id": "prototipo1-64753",
+    "storage_bucket": "prototipo1-64753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188876492515:android:c7a55c08b9e48e61aa7fd6",
+        "android_client_info": {
+          "package_name": "com.mendez.prototipo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188876492515-pfi4dl7s5l5vv12i2ui7ifgv40ikr7ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlNJRRCTjXeJ4JoCJXMY3IapvyszounJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188876492515-pfi4dl7s5l5vv12i2ui7ifgv40ikr7ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
